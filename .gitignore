@@ -1,0 +1,9 @@
+.idea/**
+**.orig
+__pycache__/**
+**.pyc
+**.py[yod]
+/**.pyc
+sqlite.db
+staticfiles
+static
